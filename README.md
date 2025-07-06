@@ -17,7 +17,7 @@
 ## Ürün Logosu
 
 
-![GlucoAI Logo](images/GlucoAI-logo.png)
+![GlucoAI Logo](GLUCOAL-logo.png)
 
 
 ## Product Backlog URL
