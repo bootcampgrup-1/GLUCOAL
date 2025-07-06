@@ -80,7 +80,28 @@ Sprint süresince ekip iki gruba ayrılarak çalışmalarını yürütmüştür:
 
 📌 Proje toplamda 300 puanlık iş yükü içerdiğinden, her sprintte yaklaşık 100 puan hedeflenmiştir.
 
+## Sprint 1: 100 Puan
 
+🏁 Tamamlanan Görevler (Toplam: 62 Puan)
+
+Takımla ürün fikirleri bulma – 15 Puan
+
+Scrum sürecinde rollerin belirlenmesi – 15 Puan
+
+Marka renklerinin seçilmesi – 11 Puan
+
+Giriş sayfası oluşturma – 10 Puan
+
+Kayıt sayfası oluşturma – 11 Puan
+
+
+👩🏻‍💻 Yapılıyor (Toplam: 38 Puan)
+
+UI formu oluşturma – 11 Puan
+
+Ürün detay sayfası arayüzü oluşturma – 10 Puan
+
+Uygulamanın temel ekran yapılarının oluşturulması – 17 Puan
 
 ##  Backlog Düzeni ve Story Seçimleri
 
