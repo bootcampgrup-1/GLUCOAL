@@ -25,7 +25,8 @@
 https://drive.google.com/drive/folders/1xUvcrFHbop9TNE1DP5Gv3VMxIBU6zCvd
 
 ## Ürün Açıklaması
-Günümüz teknolojisinde diyabet yönetimi artık çok daha kolay ve akıllı hale geliyor. Yeni nesil Bluetoothlu diyabet takip cihazımız, kullanıcının kan şekerini saatlik olarak otomatik ölçer ve gerçek zamanlı olarak mobil uygulamaya aktarır. Bu sayede kullanıcının günlük kan şekeri dalgalanmaları ve genel sağlık durumu sürekli takip altında olur.
+
+Günümüz teknolojisinde diyabet yönetimi artık çok daha kolay ve akıllı hale geliyor. Yeni nesil deri altından kan şekeri ölçümü yapan Bluetoothlu diyabet takip cihazımız, kullanıcının kan şekerini saatlik olarak otomatik ölçer ve gerçek zamanlı olarak mobil uygulamaya aktarır. Bu sayede kullanıcının günlük kan şekeri dalgalanmaları ve genel sağlık durumu sürekli takip altında olur.
 
 Toplanan kan şekeri verileri, gelişmiş yapay zeka algoritmalarıyla analiz edilir. Yapay zeka, bireysel metabolizma ve sağlık geçmişine göre kişiye özel beslenme listeleri, antrenman programları ve sağlık önerileri oluşturur. Böylece diyabet hastaları, kan şekeri seviyelerini stabilize etmek ve yaşam kalitelerini artırmak için bilinçli kararlar verebilir.
 
@@ -33,7 +34,9 @@ Uygulama içinde ayrıca kullanıcılar için gelişmiş bir raporlama sistemi v
 
 Ayrıca, uygulamaya entegre edilen yapay zeka destekli sohbet botu sayesinde hastalar, sağlıklarıyla ilgili merak ettikleri soruları doğrudan uygulama içinden doktorlara sorabilir veya botla hızlıca bilgi alabilirler. Bu özellik, acil durumlarda hızlı geri dönüş ve destek sağlar.
 
-Bütün bu özellikler, diyabet yönetimini kolaylaştırırken, hastaların bağımsızlığını artırır ve kronik hastalıkla yaşamayı daha yönetilebilir kılar.
+Tüm bu özellikler, diyabet yönetimini kolaylaştırırken, hastaların bağımsızlığını artırır ve kronik hastalıkla yaşamayı daha yönetilebilir kılar.
+
+
 
 ## Ürün Özellikleri
 - Yapay Zeka Destekli Analiz: Toplanan veriler, kullanıcının metabolizmasına ve sağlık geçmişine göre detaylı analiz edilir.
