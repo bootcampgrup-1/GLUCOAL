@@ -17,7 +17,7 @@
 ## Ürün Logosu
 
 
-![logourun](https://github.com/user-attachments/assets/523fd759-c15a-4daf-a982-42c7f64403c4)
+![GlucoAI Logo](images/GlucoAI-logo.png)
 
 
 ## Product Backlog URL
