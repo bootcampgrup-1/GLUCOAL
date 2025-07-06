@@ -62,53 +62,74 @@ Bütün bu özellikler, diyabet yönetimini kolaylaştırırken, hastaların ba�
 
 
 ## SPRİNT-1
-Sprint boyunca ekip iki gruba ayrılarak çalışmalarını sürdürdü.
 
-1. Grup, Kaggle ve diğer kaynaklardan projeye uygun diyabet ile ilgili veri setlerini bulup analiz etti.
+Sprint süresince ekip iki gruba ayrılarak çalışmalarını yürütmüştür:
 
-2. Grup ise uygulama geliştirme sürecine başladı; temel yapı oluşturuldu, veri entegrasyonuna yönelik altyapı planlandı ancak henüz gerçek ölçüm veya cihaz bağlantısı yapılmadı.
+1. Grup: Diyabetle ilgili veri setleri araştırılmış, örnek veri setlerine bakılmıştır.
+
+2. Grup: Uygulama geliştirilmeye başlanmış, temel ekranlar ve menü yapısı oluşturulmuştur.
+
+
 
 ## Sprint İçinde Tamamlanması Tahmin Edilen Puan
-Sprint için toplam 100 puanlık görev tamamlanması planlandı.
 
-## Puan Tamamlama Mantığı
-Projenin toplam puanı 300 olup, 3 sprintte eşit şekilde tamamlanması hedeflendi. İlk sprintte veri toplama ve uygulama altyapısının oluşturulması odaklandı.
+✔️ Toplam: 100 Puan
 
-## Backlog Düzeni ve Story Seçimleri
-Sprint içerisinde;
 
-* Veri bulma ve ön analiz,
+ ## Puan Tamamlama Mantığı
 
-* Uygulama mimarisi tasarımı ve temel ekranların hazırlanması,
+📌 Proje toplamda 300 puanlık iş yükü içerdiğinden, her sprintte yaklaşık 100 puan hedeflenmiştir.
 
-* Ekip içi koordinasyon ve iletişim sağlanması için Slack ve WhatsApp üzerinden toplantılar yapıldı.
+
+
+##  Backlog Düzeni ve Story Seçimleri
+
+Bu sprintte aşağıdaki görevler üstlenilmiştir:
+
+📊 Veri setlerinin araştırılması ve incelenmesi
+
+📱 Uygulama arayüzünün tasarlanması ve ilk ekranların oluşturulması
+
+💬 Slack ve WhatsApp üzerinden ekip içi iletişimin sağlanması
 
 ## Daily Scrum
-Günlük kısa toplantılar Slack üzerinden yapıldı, ayrıca WhatsApp üzerinden iletişim sağlandı. Her iki grup da ilerlemelerini ve karşılaştıkları engelleri paylaşarak çözüm üretti.
 
-## Sprint Board Güncelleme
-Sprint board üzerinden görevlerin takibi yapıldı ve ilerleme düzenli güncellendi.
+-Toplantılar  Slack üzerinden yapılmıştır.
 
-## Ürün Durumu
-Proje için uygun veri setleri belirlendi ve ön analizler yapıldı.
+- Anlık bilgi paylaşımı WhatsApp üzerinden yürütülmüştür.
 
-Uygulamanın temel iskeleti oluşturuldu; ana menü ve temel sayfa tasarımları hazırlandı.
+- Ekipler günlük ilerleme ve sorunlarını paylaşmıştır.
+
+
+
+## Sprint Board Güncellemesi
+
+Görev takibi Sprint Board üzerinden yapılmış ve güncellenmiştir.
+
+ ## Ürün Durumu
+
+✅ Projeye uygun örnek veri setleri tespit edilmiştir.
+
+✅ Uygulamanın temel ekranları oluşturulmuştur.
+
 
 ## Sprint Review
-Sprint sonunda yapılan değerlendirmede;
 
-- Veri bulma ve analize odaklanan grup projenin temel veri altyapısını sağladı.
+- Veri seti araştırmaları tamamlandı ve proje ihtiyaçlarına uygun örnekler seçildi.
 
-- Uygulama geliştirme grubunun temel ekranları ve mimarisi beklentileri karşıladı.
+- Uygulama geliştirme süreci başlatıldı, ilk ekranlar oluşturuldu.
 
-- Henüz cihaz bağlantısı ve gerçek zamanlı veri akışı yapılmadı.
-
-- Ekip, sonraki sprintlerde uygulamanın ölçüm ve veri alma fonksiyonlarının geliştirilmesi için hazırlık yapmaya karar verdi.
 
 
 ## Sprint Retrospective
-Ekip iki gruba bölünmeye devam edecek; biri veri analizi ve yapay zeka altyapısına, diğeri uygulamanın geliştirilmesine odaklanacak.
 
-İletişim kanalları etkin kullanılmaya devam edecek.
+➗ Ekip ikiye ayrılarak çalışmaya devam edecek:
 
-Sprint planlama toplantılarının düzenli aralıklarla yapılması kararlaştırıldı.
+Grup 1: Veri analizi ve yapay zeka tarafına geçiş
+
+Grup 2: Uygulamanın ekran ve işlevselliğinin genişletilmesi
+
+
+📅 Toplantılar belirli aralıklarla devam edecek.
+
+💬 Slack ve WhatsApp aktif iletişim için kullanılacak.
