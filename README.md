@@ -22,6 +22,8 @@
 
 ## Product Backlog URL
 
+https://drive.google.com/drive/folders/1xUvcrFHbop9TNE1DP5Gv3VMxIBU6zCvd
+
 ## Ürün Açıklaması
 Günümüz teknolojisinde diyabet yönetimi artık çok daha kolay ve akıllı hale geliyor. Yeni nesil Bluetoothlu diyabet takip cihazımız, kullanıcının kan şekerini saatlik olarak otomatik ölçer ve gerçek zamanlı olarak mobil uygulamaya aktarır. Bu sayede kullanıcının günlük kan şekeri dalgalanmaları ve genel sağlık durumu sürekli takip altında olur.
 
@@ -116,7 +118,7 @@ Bu sprintte aşağıdaki görevler üstlenilmiştir:
 ## Daily Scrum
 
 -Toplantılar  Slack üzerinden yapılmıştır.
-
+https://drive.google.com/drive/folders/1xUvcrFHbop9TNE1DP5Gv3VMxIBU6zCvd
 - Anlık bilgi paylaşımı WhatsApp üzerinden yürütülmüştür.
 
 - Ekipler günlük ilerleme ve sorunlarını paylaşmıştır.
