@@ -13,7 +13,7 @@
 
 
 ## Ürün İsmi
-**GLUCOAı**
+**GLUCOAI**
 ## Ürün Logosu
 
 
