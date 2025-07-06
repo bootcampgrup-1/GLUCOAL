@@ -13,7 +13,7 @@
 
 
 ## Ürün İsmi
-**GLUCOAL**
+**GLUCOAı**
 ## Ürün Logosu
 
 
@@ -159,3 +159,7 @@ Grup 2: Uygulamanın ekran ve işlevselliğinin genişletilmesi
 📅 Toplantılar belirli aralıklarla devam edecek.
 
 💬 Slack ve WhatsApp aktif iletişim için kullanılacak.
+
+
+
+
