@@ -160,8 +160,8 @@ Grup 2: Uygulamanın ekran ve işlevselliğinin genişletilmesi
 
 💬 Slack ve WhatsApp aktif iletişim için kullanılacak.
 
+### Demo Video
 
-![GlucoAI video](GLUCOAL.mp4)
-
+<video src="videos/GLUCOAI.mp4" controls width="600"></video>
 
 
