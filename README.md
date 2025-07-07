@@ -132,7 +132,8 @@ https://drive.google.com/drive/folders/1xUvcrFHbop9TNE1DP5Gv3VMxIBU6zCvd
 
 Görev takibi Sprint Board üzerinden yapılmış ve güncellenmiştir.
 
-(Grup-1.png)
+![GlucoAI](Grup-1.png)
+
 
  ## Ürün Durumu
 
