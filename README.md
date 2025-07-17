@@ -212,6 +212,57 @@ Sprint başında her bir sprint için 100 puan, toplamda 3 sprint için 300 puan
 ## Tahmin Mantığı
 Puanlama, görevlerin zorluk seviyelerine, teknik bilgi gereksinimlerine, belirsizlik durumlarına ve bağımlılıklarına göre belirlenmiştir.
 
+## Tamamlanan Görevler (Toplam: 63 Puan)
+Ana menüden beslenme, egzersiz, rapor-analiz ekranlarına geçişlerin sağlanması – 10 Puan
 
+Beslenme sayfası arayüzünün hazırlanması (kart tasarımı, düzen) – 10 Puan
+
+Egzersiz sayfası arayüzünün oluşturulması – 10 Puan
+
+Rapor ve analiz ekranının temel arayüzünün oluşturulması – 9 Puan
+
+Navigasyon menüsü ve buton tasarımlarının yerleştirilmesi – 10 Puan
+
+Sayfa geçişlerinin düzgün çalışmasının sağlanması – 7 Puan
+
+Uygulama içi görsel tasarım iyileştirmeleri (ikon ve renk uyumu) – 7 Puan
+
+## Yapılıyor (Toplam: 37 Puan)
+Yapay zekâ modülü için arayüz hazırlığı – 10 Puan
+
+Sağlık önerileri sayfasının oluşturulması – 9 Puan
+
+Chatbot arayüz entegrasyon planlaması – 8 Puan
+
+Egzersiz ve beslenme geçmişi takibi ekranı – 10 Puan
+
+
+
+## Sprint Review 
+Sprint-2 sürecinde planlanan yaklaşık 100 puanlık görevlerin %63’ü tamamlanmış, kalan %37’si ise geliştirme aşamasındadır. Bu sprint süresince uygulamanın temel modüllerine ait arayüz tasarımları genişletilmiş ve önemli modüllerin entegrasyonuna başlanmıştır.
+
+Beslenme, egzersiz ve rapor-analiz modüllerinin temel ekranları tamamlanmış, navigasyon menüsü ve buton tasarımlarında düzenlemeler yapılarak uygulamanın yapısal akışı güçlendirilmiştir.
+
+Sprint kapsamında yapay zekâ modülleri için arayüz altyapısı hazırlanmış, chatbot entegrasyonu için planlama yapılmıştır. Bu çalışmalar, modüllerin fonksiyonel olarak devreye alınması için sağlam bir temel oluşturmuştur.
+
+Son sprintte, yapay zekâ modülünün geliştirilmesi ve sağlık önerileri sayfasının tamamlanması hedeflenmekte olup, bu sayede projenin teknik kapsamı daha da genişletilecektir.
+
+## Sprint Retrospective 
+- İyi Gidenler
+Temel modüllerin arayüz tasarımları zamanında ve planlandığı şekilde tamamlandı.
+
+Yapay zekâ ve chatbot modülleri için altyapı hazırlıkları başarılı şekilde ilerledi.
+
+Ekip içi koordinasyon ve görev dağılımı verimliydi.
+
+- Geliştirilmesi Gerekenler
+Yapay zekâ modülünün fonksiyonel entegrasyonu için test süreçleri hızlandırılmalı.
+
+Tasarım sürecinde bazı detayların daha erken netleştirilmesi, geliştirme sürecini kolaylaştırabilir.
+
+- Öğrenilenler
+Arayüz tasarımının erken aşamalarda tamamlanması, sonraki geliştirme adımlarını kolaylaştırdı.
+
+Ekip üyeleri arasındaki düzenli iletişim, problemlerin hızlı çözümüne olanak sağladı.
 
 
