@@ -176,69 +176,72 @@ Sprint-2 sürecinde projeye ait arayüz tasarımları genişletilmiş ve önemli
 ✅ Gerçekleştirilen Çalışmalar
 Arayüze Eklenen Modüller:
 
-Psikolojik Destek
+- Psikolojik Destek
 
-İlaç Takip
+- İlaç Takip
 
-Laboratuvar Sonuçları
+- Laboratuvar Sonuçları
 
-Acil Durum
+- Acil Durum
 
-Sağlık Değerlendirmesi
+- Sağlık Değerlendirmesi
 
-Doktor ile İletişim
+- Doktor ile İletişim
 
-Raporlar ve Canlı Durum
+- Raporlar ve Canlı Durum
 
-İçeriği Oluşturulan Modüller:
+✅  İçeriği Oluşturulan Modüller:
 
-Beslenme → Yapay zeka desteği eklendi.
+* Beslenme → Yapay zeka desteği eklendi.
 
-Egzersiz → Yapay zeka desteği eklendi.
+* Egzersiz → Yapay zeka desteği eklendi.
 
-Danışma → Chatbot entegrasyonu sağlandı.
+* Danışma → Chatbot entegrasyonu sağlandı.
 
-Doktor → Kullanıcının sağlık verilerini doktora iletme ve randevu oluşturma fonksiyonu entegre edildi.
+* Doktor → Kullanıcının sağlık verilerini doktora iletme ve randevu oluşturma fonksiyonu entegre edildi.
 
-Sağlık Değerlendirmesi → Kullanıcı verilerinin analiz edilmesi ve yorumlanması sağlandı.
+* Sağlık Değerlendirmesi → Kullanıcı verilerinin analiz edilmesi ve yorumlanması sağlandı.
 
 
 ## Sprint İçinde Tamamlanması Tahmin Edilen Puan
 
 Sprint başında her bir sprint için 100 puan, toplamda 3 sprint için 300 puan hedeflenmiştir.
 
-- Sprint-2 için yaklaşık 100 puanlık görev planlanmıştır
+✔️ Sprint-2 için yaklaşık 100 puanlık görev planlanmıştır
 
 ## Tahmin Mantığı
 Puanlama, görevlerin zorluk seviyelerine, teknik bilgi gereksinimlerine, belirsizlik durumlarına ve bağımlılıklarına göre belirlenmiştir.
 
-## Tamamlanan Görevler (Toplam: 63 Puan)
-Ana menüden beslenme, egzersiz, rapor-analiz ekranlarına geçişlerin sağlanması – 10 Puan
+🏁 Tamamlanan Görevler (Toplam: 63 Puan)
 
-Beslenme sayfası arayüzünün hazırlanması (kart tasarımı, düzen) – 10 Puan
+- Ana menüden beslenme, egzersiz, rapor-analiz ekranlarına geçişlerin sağlanması – 10 Puan
 
-Egzersiz sayfası arayüzünün oluşturulması – 10 Puan
+- Beslenme sayfası arayüzünün hazırlanması (kart tasarımı, düzen) – 10 Puan
 
-Rapor ve analiz ekranının temel arayüzünün oluşturulması – 9 Puan
+- Egzersiz sayfası arayüzünün oluşturulması – 10 Puan
 
-Navigasyon menüsü ve buton tasarımlarının yerleştirilmesi – 10 Puan
+- Rapor ve analiz ekranının temel arayüzünün oluşturulması – 9 Puan
 
-Sayfa geçişlerinin düzgün çalışmasının sağlanması – 7 Puan
+- Navigasyon menüsü ve buton tasarımlarının yerleştirilmesi – 10 Puan
 
-Uygulama içi görsel tasarım iyileştirmeleri (ikon ve renk uyumu) – 7 Puan
+- Sayfa geçişlerinin düzgün çalışmasının sağlanması – 7 Puan
 
-## Yapılıyor (Toplam: 37 Puan)
-Yapay zekâ modülü için arayüz hazırlığı – 10 Puan
+- Uygulama içi görsel tasarım iyileştirmeleri (ikon ve renk uyumu) – 7 Puan
 
-Sağlık önerileri sayfasının oluşturulması – 9 Puan
+👩🏻‍💻 Yapılıyor (Toplam: 37 Puan)
 
-Chatbot arayüz entegrasyon planlaması – 8 Puan
+- Yapay zekâ modülü için arayüz hazırlığı – 10 Puan
 
-Egzersiz ve beslenme geçmişi takibi ekranı – 10 Puan
+- Sağlık önerileri sayfasının oluşturulması – 9 Puan
+
+- Chatbot arayüz entegrasyon planlaması – 8 Puan
+
+- Egzersiz ve beslenme geçmişi takibi ekranı – 10 Puan
 
 
 
 ## Sprint Review 
+
 Sprint-2 sürecinde planlanan yaklaşık 100 puanlık görevlerin %63’ü tamamlanmış, kalan %37’si ise geliştirme aşamasındadır. Bu sprint süresince uygulamanın temel modüllerine ait arayüz tasarımları genişletilmiş ve önemli modüllerin entegrasyonuna başlanmıştır.
 
 Beslenme, egzersiz ve rapor-analiz modüllerinin temel ekranları tamamlanmış, navigasyon menüsü ve buton tasarımlarında düzenlemeler yapılarak uygulamanın yapısal akışı güçlendirilmiştir.
@@ -248,19 +251,26 @@ Sprint kapsamında yapay zekâ modülleri için arayüz altyapısı hazırlanmı
 Son sprintte, yapay zekâ modülünün geliştirilmesi ve sağlık önerileri sayfasının tamamlanması hedeflenmekte olup, bu sayede projenin teknik kapsamı daha da genişletilecektir.
 
 ## Sprint Retrospective 
-- İyi Gidenler
+
+ 
+📌 İyi Gidenler
+  
 Temel modüllerin arayüz tasarımları zamanında ve planlandığı şekilde tamamlandı.
 
 Yapay zekâ ve chatbot modülleri için altyapı hazırlıkları başarılı şekilde ilerledi.
 
 Ekip içi koordinasyon ve görev dağılımı verimliydi.
 
-- Geliştirilmesi Gerekenler
+
+📌  Geliştirilmesi Gerekenler
+ 
 Yapay zekâ modülünün fonksiyonel entegrasyonu için test süreçleri hızlandırılmalı.
 
 Tasarım sürecinde bazı detayların daha erken netleştirilmesi, geliştirme sürecini kolaylaştırabilir.
 
-- Öğrenilenler
+
+📌  Öğrenilenler
+
 Arayüz tasarımının erken aşamalarda tamamlanması, sonraki geliştirme adımlarını kolaylaştırdı.
 
 Ekip üyeleri arasındaki düzenli iletişim, problemlerin hızlı çözümüne olanak sağladı.
