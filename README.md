@@ -167,3 +167,51 @@ Grup 2: Uygulamanın ekran ve işlevselliğinin genişletilmesi
 https://drive.google.com/file/d/1yYdc7Zpm8PGjQ8YPn0i6W8011YB3STcL/view?usp=drivesdk
 
 
+## SPRİNT-2
+
+## Sprint Notları
+
+Sprint-2 sürecinde projeye ait arayüz tasarımları genişletilmiş ve önemli modüller sisteme entegre edilmiştir. Kullanıcı deneyimini artıracak yeni özellikler ve destekleyici altyapılar geliştirilmiştir.
+
+✅ Gerçekleştirilen Çalışmalar
+Arayüze Eklenen Modüller:
+
+Psikolojik Destek
+
+İlaç Takip
+
+Laboratuvar Sonuçları
+
+Acil Durum
+
+Sağlık Değerlendirmesi
+
+Doktor ile İletişim
+
+Raporlar ve Canlı Durum
+
+İçeriği Oluşturulan Modüller:
+
+Beslenme → Yapay zeka desteği eklendi.
+
+Egzersiz → Yapay zeka desteği eklendi.
+
+Danışma → Chatbot entegrasyonu sağlandı.
+
+Doktor → Kullanıcının sağlık verilerini doktora iletme ve randevu oluşturma fonksiyonu entegre edildi.
+
+Sağlık Değerlendirmesi → Kullanıcı verilerinin analiz edilmesi ve yorumlanması sağlandı.
+
+
+## Sprint İçinde Tamamlanması Tahmin Edilen Puan
+
+Sprint başında her bir sprint için 100 puan, toplamda 3 sprint için 300 puan hedeflenmiştir.
+
+- Sprint-2 için yaklaşık 100 puanlık görev planlanmıştır
+
+## Tahmin Mantığı
+Puanlama, görevlerin zorluk seviyelerine, teknik bilgi gereksinimlerine, belirsizlik durumlarına ve bağımlılıklarına göre belirlenmiştir.
+
+
+
+
