@@ -276,3 +276,6 @@ Arayüz tasarımının erken aşamalarda tamamlanması, sonraki geliştirme adı
 Ekip üyeleri arasındaki düzenli iletişim, problemlerin hızlı çözümüne olanak sağladı.
 
 
+### Demo Video
+
+https://drive.google.com/file/d/12odwTaDu2_Hp5NANA752EjcfUuRKW9Gz/view?usp=drive_link
