@@ -270,7 +270,6 @@ Temel modüllerin arayüz tasarımları zamanında ve planlandığı şekilde ta
 
 Yapay zekâ ve chatbot modülleri için altyapı hazırlıkları başarılı şekilde ilerledi.
 
-Ekip içi koordinasyon ve görev dağılımı verimliydi.
 
 
 📌  Geliştirilmesi Gerekenler
@@ -279,12 +278,6 @@ Yapay zekâ modülünün fonksiyonel entegrasyonu için test süreçleri hızlan
 
 Tasarım sürecinde bazı detayların daha erken netleştirilmesi, geliştirme sürecini kolaylaştırabilir.
 
-
-📌  Öğrenilenler
-
-Arayüz tasarımının erken aşamalarda tamamlanması, sonraki geliştirme adımlarını kolaylaştırdı.
-
-Ekip üyeleri arasındaki düzenli iletişim, problemlerin hızlı çözümüne olanak sağladı.
 
 
 ### Demo Video
