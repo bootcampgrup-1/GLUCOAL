@@ -132,7 +132,7 @@ https://drive.google.com/drive/folders/1xUvcrFHbop9TNE1DP5Gv3VMxIBU6zCvd
 
 Görev takibi Sprint Board üzerinden yapılmış ve güncellenmiştir.
 
-![GlucoAI](Grup-1.png)
+![GlucoAI](sprint_board.png)
 
 
  ## Ürün Durumu
@@ -237,6 +237,17 @@ Puanlama, görevlerin zorluk seviyelerine, teknik bilgi gereksinimlerine, belirs
 - Chatbot arayüz entegrasyon planlaması – 8 Puan
 
 - Egzersiz ve beslenme geçmişi takibi ekranı – 10 Puan
+
+## Daily Scrum
+
+![GlucoAI](Grup-1_meet.png)
+
+
+
+## Sprint Board Güncellemesi
+
+
+![GlucoAI](sprint_board_1.png)
 
 
 
