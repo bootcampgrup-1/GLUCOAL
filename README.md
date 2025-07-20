@@ -247,7 +247,7 @@ Puanlama, görevlerin zorluk seviyelerine, teknik bilgi gereksinimlerine, belirs
 ## Sprint Board Güncellemesi
 
 
-![GlucoAI](sprint_board_1.png)
+![GlucoAI](sprint_board_1.jpg)
 
 
 
