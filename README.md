@@ -283,3 +283,88 @@ Tasarım sürecinde bazı detayların daha erken netleştirilmesi, geliştirme s
 ### Demo Video
 
 https://drive.google.com/file/d/12odwTaDu2_Hp5NANA752EjcfUuRKW9Gz/view?usp=drive_link
+
+
+SPRINT-3
+## Sprint Notları
+GlucoAI projesinin üçüncü ve son sprinti, uygulamanın tüm modüllerinin işlevsel hale getirildiği, içeriklerinin tamamlandığı ve kullanıcıya sunulacak duruma getirildiği süreçtir. Bu sprintte sadece teknik işler değil; içerik üretimi, görsel düzenlemeler, yapay zekâ ve chatbot entegrasyonları, kullanıcı deneyimi ve sistem performansı gibi alanlarda da kapsamlı çalışmalar yürütülmüştür.
+
+Uygulamanın tüm ekranları, sistemsel ayarları, temel ve destekleyici sağlık modülleri bu sprintte eksiksiz şekilde tamamlanarak proje bütünlüğü sağlanmıştır. Ayrıca final demo videosu ve sunum materyalleri de bu sprintte hazırlanmıştır.
+
+## Sprint İçinde Tamamlanması Tahmin Edilen Puan
+✔ Toplam: 100 Puan
+
+## Puanlama Tahmin Mantığı
+Sprint 1 ve Sprint 2’de olduğu gibi bu sprintte de yaklaşık 100 puanlık iş yükü planlanmıştır. Puanlama yapılırken:
+
+Görevlerin teknik karmaşıklığı,
+
+İçerik üretimi gerekliliği,
+
+Entegrasyon ihtiyaçları,
+
+Bağımlı sistemler ve test süresi
+gibi etkenler dikkate alınmıştır.
+
+## Daily Scrum
+
+
+## Sprint Board Güncellemeleri
+
+
+
+✅ Tamamlanan Görevler (Toplam: 100 Puan)
+Görev	Puan
+- Yapay zekâ modülü ve öneri sistemi	15
+- Sağlık önerileri sayfası	10
+- Chatbot entegrasyonunun tamamlanması	10
+- Psikolojik destek modülünün tamamlanması	10
+- İlaç takip modülü içerikleri ve hatırlatmalar	10
+- Laboratuvar sonuçları modülünün geliştirilmesi	10
+- Acil durum modülünün içeriklerinin eklenmesi	10
+- Ayarlar sayfası (profil, bildirim, veri yönetimi)	10
+-UI/UX düzenlemeleri ve performans iyileştirmeleri	5
+
+## Sprint İçinde Gerçekleştirilen Çalışmalar (Özet)
+🧠 Psikolojik Destek
+- Kullanıcının duygusal durumunu uygulamaya yansıtabileceği alanlar
+
+- Moral verici içerikler ve yönlendirici bilgiler
+
+💊 İlaç Takip
+- İlaç bilgisi girişi, günlük takip
+
+- Hatırlatma sistemi ve açıklayıcı içerikler
+
+🧪 Laboratuvar Sonuçları
+Tahlil giriş alanları
+
+- Geçmiş değer takibi
+
+🚨 Acil Durum
+112 acil çağrı
+
+Yakınlara SMS/arama
+
+⚙ Ayarlar
+Profil bilgileri düzenleme
+
+- Bildirim tercihi
+
+- Veri silme, dışa aktarma
+
+🔍 Sprint Review
+Sprint 3 sonunda uygulamanın tüm modülleri eksiksiz şekilde tamamlanmıştır. Yapay zekâ destekli sağlık önerileri, chatbot sistemi, kullanıcı destek modülleri ve temel sağlık araçları aktif olarak entegre edilmiştir. Ayrıca tüm ekranların tasarımı tamamlanmış ve uygulama sunuma hazır hale getirilmiştir.
+
+Proje sonunda GlucoAI yalnızca bir diyabet takip aracı değil, kullanıcının fiziksel ve psikolojik sağlığını bütünsel olarak destekleyen bir mobil sağlık asistanı haline gelmiştir.
+
+🔁 Sprint Retrospective
+Tüm modüller planlandığı şekilde eksiksiz tamamlandı.
+
+Ekip içi görev paylaşımı ve iletişim oldukça verimliydi.
+
+Kullanıcı geri bildirimleri hızlıca uygulamaya yansıtıldı.
+
+UI/UX düzenlemeleri kullanıcı deneyimini iyileştirdi.
+
+
