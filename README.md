@@ -291,7 +291,7 @@ https://drive.google.com/file/d/12odwTaDu2_Hp5NANA752EjcfUuRKW9Gz/view?usp=drive
 ## Sprint Notları
 GlucoAI projesinin üçüncü ve son sprinti, uygulamanın tüm modüllerinin işlevsel hale getirildiği, içeriklerinin tamamlandığı ve kullanıcıya sunulacak duruma getirildiği süreçtir. Bu sprintte sadece teknik işler değil; içerik üretimi, görsel düzenlemeler, yapay zekâ ve chatbot entegrasyonları, kullanıcı deneyimi ve sistem performansı gibi alanlarda da kapsamlı çalışmalar yürütülmüştür.
 
-Uygulamanın tüm ekranları, sistemsel ayarları, temel ve destekleyici sağlık modülleri bu sprintte eksiksiz şekilde tamamlanarak proje bütünlüğü sağlanmıştır. Ayrıca final demo videosu ve sunum materyalleri de bu sprintte hazırlanmıştır.
+Uygulamanın tüm ekranları, sistemsel ayarları, temel ve destekleyici sağlık modülleri bu sprintte eksiksiz şekilde tamamlanarak proje bütünlüğü sağlanmıştır. 
 
 ## Sprint İçinde Tamamlanması Tahmin Edilen Puan
 ✔ Toplam: 100 Puan
@@ -299,13 +299,13 @@ Uygulamanın tüm ekranları, sistemsel ayarları, temel ve destekleyici sağlı
 ## Puanlama Tahmin Mantığı
 Sprint 1 ve Sprint 2’de olduğu gibi bu sprintte de yaklaşık 100 puanlık iş yükü planlanmıştır. Puanlama yapılırken:
 
-Görevlerin teknik karmaşıklığı,
+- Görevlerin teknik karmaşıklığı,
 
-İçerik üretimi gerekliliği,
+- İçerik üretimi gerekliliği,
 
-Entegrasyon ihtiyaçları,
+- Entegrasyon ihtiyaçları,
 
-Bağımlı sistemler ve test süresi
+- Bağımlı sistemler ve test süresi
 gibi etkenler dikkate alınmıştır.
 
 ## Daily Scrum
@@ -365,18 +365,16 @@ gibi etkenler dikkate alınmıştır.
 
 ## Sprint Review
 
-Sprint 3 sonunda uygulamanın tüm modülleri eksiksiz şekilde tamamlanmıştır. Yapay zekâ destekli sağlık önerileri, chatbot sistemi, kullanıcı destek modülleri ve temel sağlık araçları aktif olarak entegre edilmiştir. Ayrıca tüm ekranların tasarımı tamamlanmış ve uygulama sunuma hazır hale getirilmiştir.
+Sprint 3 sonunda uygulamanın tüm modülleri eksiksiz şekilde tamamlanmıştır. Yapay zekâ destekli sağlık önerileri, chatbot sistemi, kullanıcı destek modülleri ve temel sağlık araçları aktif olarak entegre edilmiştir. Ayrıca tüm ekranların tasarımı tamamlanmış ve uygulama hazır hale getirilmiştir.
 
 Proje sonunda GlucoAI yalnızca bir diyabet takip aracı değil, kullanıcının fiziksel ve psikolojik sağlığını bütünsel olarak destekleyen bir mobil sağlık asistanı haline gelmiştir.
 
 ## Sprint Retrospective
 
-Tüm modüller planlandığı şekilde eksiksiz tamamlandı.
+- Tüm modüller planlandığı şekilde eksiksiz tamamlandı.
 
-Ekip içi görev paylaşımı ve iletişim oldukça verimliydi.
+- Ekip içi görev paylaşımı ve iletişim oldukça verimliydi.
 
-Kullanıcı geri bildirimleri hızlıca uygulamaya yansıtıldı.
-
-UI/UX düzenlemeleri kullanıcı deneyimini iyileştirdi.
+- UI/UX düzenlemeleri yapıldı.
 
 
