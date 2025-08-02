@@ -313,6 +313,7 @@ gibi etkenler dikkate alınmıştır.
 
 ## Sprint Board Güncellemeleri
 
+![GlucoAI](sprint_board_2.jpg)
 
 
 ✅ Tamamlanan Görevler (Toplam: 100 Puan)
@@ -378,3 +379,7 @@ Proje sonunda GlucoAI yalnızca bir diyabet takip aracı değil, kullanıcının
 - UI/UX düzenlemeleri yapıldı.
 
 
+
+### Demo Video
+
+https://drive.google.com/file/d/1D7r7nuTJCYhGlJPRBCDCId2EizBEbTcK/view?usp=sharing
