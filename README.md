@@ -285,7 +285,9 @@ Tasarım sürecinde bazı detayların daha erken netleştirilmesi, geliştirme s
 https://drive.google.com/file/d/12odwTaDu2_Hp5NANA752EjcfUuRKW9Gz/view?usp=drive_link
 
 
-SPRINT-3
+##SPRINT-3
+
+
 ## Sprint Notları
 GlucoAI projesinin üçüncü ve son sprinti, uygulamanın tüm modüllerinin işlevsel hale getirildiği, içeriklerinin tamamlandığı ve kullanıcıya sunulacak duruma getirildiği süreçtir. Bu sprintte sadece teknik işler değil; içerik üretimi, görsel düzenlemeler, yapay zekâ ve chatbot entegrasyonları, kullanıcı deneyimi ve sistem performansı gibi alanlarda da kapsamlı çalışmalar yürütülmüştür.
 
