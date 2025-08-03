@@ -310,7 +310,7 @@ gibi etkenler dikkate alınmıştır.
 
 ## Daily Scrum
 
-![GlucoAI](daily_scrum_3.png)
+![GlucoAI](daily_scrum_3.jpg)
 
 ## Sprint Board Güncellemeleri
 
