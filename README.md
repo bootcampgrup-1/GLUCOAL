@@ -240,7 +240,7 @@ Puanlama, görevlerin zorluk seviyelerine, teknik bilgi gereksinimlerine, belirs
 
 ## Daily Scrum
 
-![GlucoAI](Grup-1_meet.png)
+![GlucoAI](daily_scrum_2.png)
 
 
 
@@ -310,6 +310,7 @@ gibi etkenler dikkate alınmıştır.
 
 ## Daily Scrum
 
+![GlucoAI](daily_scrum_3.png)
 
 ## Sprint Board Güncellemeleri
 
