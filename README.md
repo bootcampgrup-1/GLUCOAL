@@ -240,7 +240,7 @@ Puanlama, görevlerin zorluk seviyelerine, teknik bilgi gereksinimlerine, belirs
 
 ## Daily Scrum
 
-![GlucoAI](daily_scrum_2.png)
+![GlucoAI](daily_scrum_2.png.png)
 
 
 
